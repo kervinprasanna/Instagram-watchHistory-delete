@@ -1,0 +1,23 @@
+# Android platform tools binary & archives
+platform-tools/
+platform-tools.zip
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environment & IDE
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
